@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Button = () => {
     const handleGithubClick = () => {
-        window.open('https://github.com/denverdelamasa', '_blank');
+        window.open('https://github.com/denverdelamasa/BlackHole', '_blank');
     };
     return (
         <StyledWrapper>
